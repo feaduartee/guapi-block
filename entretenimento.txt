@@ -32,15 +32,10 @@ gql.twitch.tv
 api.twitch.tv
 usher.ttvnw.net
 video-weaver.sjc02.hls.ttvnw.net
-youtube.com
-www.youtube.com
-m.youtube.com
 ytimg.com
 i.ytimg.com
 s.ytimg.com
 googlevideo.com
-youtube-nocookie.com
-youtu.be
 crunchyroll.com
 www.crunchyroll.com
 roblox.com
