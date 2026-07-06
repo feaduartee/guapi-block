@@ -51,3 +51,7 @@ store.steampowered.com
 steamcommunity.com
 epicgames.com
 store.epicgames.com
+globo.com
+www.globo.com
+r7.com
+www.r7.com
