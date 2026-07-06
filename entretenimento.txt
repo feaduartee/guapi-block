@@ -55,3 +55,5 @@ globo.com
 www.globo.com
 r7.com
 www.r7.com
+g1.globo.com
+www.g1.globo.com
