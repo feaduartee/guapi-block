@@ -43,6 +43,11 @@ ytimg.com
 i.ytimg.com
 s.ytimg.com
 googlevideo.com
+ggpht.com
+jnn-pa.googleapis.com
+studio.youtube.com
+youtubei-att.googleapis.com
+suggestqueries-clients6.youtube.com
 crunchyroll.com
 www.crunchyroll.com
 roblox.com

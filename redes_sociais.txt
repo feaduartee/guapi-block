@@ -40,16 +40,7 @@ s16.tiktokcdn.com
 p16-tiktokcdn-com.akamaized.net
 tiktokcdn.com
 tiktokv.com
-reddit.com
-www.reddit.com
-old.reddit.com
-oauth.reddit.com
-gateway.reddit.com
-v.redd.it
-i.redd.it
-a.thumbs.redditmedia.com
-b.thumbs.redditmedia.com
-redditstatic.com
+
 snapchat.com
 www.snapchat.com
 app.snapchat.com
