@@ -36,6 +36,9 @@ youtube.com
 www.youtube.com
 m.youtube.com
 youtu.be
+youtubei.googleapis.com
+yt3.ggpht.com
+youtube-nocookie.com
 ytimg.com
 i.ytimg.com
 s.ytimg.com
