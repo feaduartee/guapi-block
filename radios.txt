@@ -5,14 +5,6 @@ cdn-radiotime-logos.tunein.com
 radios.com.br
 www.radios.com.br
 stream.radios.com.br
-spotify.com
-www.spotify.com
-open.spotify.com
-api.spotify.com
-apresolve.spotify.com
-audio-ak-spotify-com.akamaized.net
-audio-fa.scdn.co
-spclient.wg.spotify.com
 scdn.co
 i.scdn.co
 deezer.com
