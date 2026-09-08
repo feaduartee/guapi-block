@@ -54,8 +54,3 @@ br.pinterest.com
 pinimg.com
 i.pinimg.com
 s.pinimg.com
-linkedin.com
-www.linkedin.com
-br.linkedin.com
-media.licdn.com
-static.licdn.com
